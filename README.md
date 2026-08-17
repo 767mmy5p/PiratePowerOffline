@@ -1,2 +1,3 @@
-# PiratePowerOffline
-An offline apk of the mobile game Pirate Power, created with DeepSeek V4 Flash/Pro.
+# Pirate Power Offline
+You won't get banned because this never connects to the servers in the first place.
+Have fun ig.
